@@ -67,3 +67,17 @@ body{
 .link:hover{
     color: azure;
 }
+
+#v1{
+    text-align: center;
+}
+
+iframe{
+    text-align: center;
+}
+
+a{
+    font-size: 29px;
+    font-family: monospace;
+    text-shadow: 2px 2px black;
+}
